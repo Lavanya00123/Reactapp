@@ -1,0 +1,30 @@
+.blue-container{
+    background-color: rgb(0,153,255);
+    height: 300px;
+    width:400px;
+    border-radius: 20px;
+    padding: 20px;
+    color:#ffffff;
+}
+
+.blue-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+p{
+    color:#ffffff;
+}
+.icon-container{
+    display: flex;
+    flex-direction: row;
+    line-height:18px;
+    
+}
+.icon{
+    color:#ffffff;
+    height:30px;
+    width:30px;
+}

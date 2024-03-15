@@ -1,0 +1,8 @@
+.row2-container{
+    display: flex;
+    flex-direction: row;
+}
+
+h2,p{
+    color: black;
+}

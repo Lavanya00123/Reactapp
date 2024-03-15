@@ -1,0 +1,22 @@
+.row-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    
+}
+.image-container{
+    width:50%;
+    padding: 20px;
+}
+.paragraph-contaainer{
+    width: 50%;
+    padding: 20px;
+}
+.button{
+    background-color: rgb(0, 153, 255);
+    padding: 10px;
+    color: #ffffff;
+}
+h2,p,button{
+    padding: 10px;
+}

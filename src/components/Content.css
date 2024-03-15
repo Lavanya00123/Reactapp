@@ -1,0 +1,21 @@
+.content-container{
+    background-color: #000000;
+    height:100vh;
+    background-size: cover;
+    color:#ffffff;
+
+}
+
+.content-main-container{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    
+}
+h2{
+    color: #000000;
+}
+p{
+    color: #000000;
+    
+}
